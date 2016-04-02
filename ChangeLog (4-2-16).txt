@@ -1,0 +1,6 @@
+Edits by Willa:
+
+- RSVP Google Form:
+  - removed "Social Game Jam" because submission period is from 4-1-16 to 4-3-16, and thus will not be applicable to our hackathon.
+  - changed "What do you intend to hack?" to "What would you like to hack?"
+  - added data and form validation to RSVP to send a confirmation email to the email they provide in the "Email Address" field.
